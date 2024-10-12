@@ -8,6 +8,6 @@ This repository contains a custom shell implemented in Go. It allows users to ex
 
    ```bash
    git clone [https://github.com/yourusername/Go-Shell.git](https://github.com/yourusername/Go-Shell.git)
-cd Go-Shell
-go mod init Go-Shell
+cd Go-Shell,
+go mod init Go-Shell,
 go run shell.go
